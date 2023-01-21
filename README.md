@@ -1,3 +1,3 @@
 # Practice
 
-repo for daily and random practice
+repo for daily and random practice!
